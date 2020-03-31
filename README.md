@@ -8,3 +8,5 @@ If you want to patch the game yourself, you'll need to download his tools, which
 https://legendsoflocalization.com/tomato-adventure/
 
 The only thing I really did was write a quick app to translate a huge amount of japanese text to english through google's public translation API. I'm too lazy to look into licensing right now, so for now, all I'm going to be storing in this repository is this translation script.
+
+This is still a WIP, as I don't think the line breaks line up correctly after translating. Machine translated jp->en text is also basically unreadable, so I don't think this will be too useful, even after it's completed.
