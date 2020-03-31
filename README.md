@@ -1,5 +1,5 @@
 # TomatoTranslation
-Some stuff to machine-ly translate a Japanese GBA game into ENGLISH.
+I wrote this app to machine-ly translate Tomato Adventure into ENGLISH.
 
 If you haven't heard of it, it's a predecessor to the Mario & Luigi RPGs that was never localized.
 
